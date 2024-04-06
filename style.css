@@ -1,0 +1,21 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px !important;
+}
+
+.fundo__botao__lilas {
+    background-color: #9353FF;
+    color:#fff;
+}
+
+.fundo__botao__lilas:hover{
+    background-color: #7644cc;
+    color: #fff;
+}
+
+.fundo__icones_verde {
+    color: #DAFF01;
+}
